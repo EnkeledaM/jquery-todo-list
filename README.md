@@ -1,15 +1,30 @@
-# jQuery To-Do List App
 
-A small to-do list application built for CareerFoundry Exercise 1.9 using jQuery and jQuery UI.
 
-## Features
-- Add new items
-- Mark items as completed (strike-through on double click)
-- Delete items with the "X" button
-- Reorder items using drag & drop (jQuery UI sortable)
+# 📘 README.md – **jQuery To-Do List**
 
-## Live Demo
-https://enkeledam.github.io/jquery-todo-list/
+📁 Repo: `jquery-todo-list`
 
-## Repository
-https://github.com/EnkeledaM/jquery-todo-list
+```md
+# jQuery To-Do List
+
+This project is a simple **To-Do List application** built with **jQuery**, developed as part of the CareerFoundry Full-Stack Web Development course.
+
+## 📌 Features
+- Add new to-do items
+- Mark items as completed
+- Delete items
+- Drag and reorder list items (jQuery UI)
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- jQuery
+- jQuery UI
+- ESLint
+
+## ⚙️ Development Setup
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
